@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | Final Year CSE Student | MERN Stack Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Final Year ECE Student | MERN Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Generative+AI+Enthusiast;DSA+Problem+Solver;Building+Real+World+Projects" />
@@ -88,12 +88,7 @@ React.js | Node.js | Express.js | MongoDB | Socket.io | JWT
 - System Design  
 - Backend Optimization  
 
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: Add Your LinkedIn Link  
-- 📧 Email: Add Your Email  
-
+---  
 ---
 
 ⭐️ From [Piyush Singh](https://github.com/piyush7992)
